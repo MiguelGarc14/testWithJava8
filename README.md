@@ -1,4 +1,4 @@
-#Test Efectivale con Java 8
+# Test Efectivale con Java 8
 
 Aplicación web enterprise clásica desarrollada con Java 8 utilizando arquitectura MVC con Spring Framework, PostgreSQL y despliegue en Docker.
 
