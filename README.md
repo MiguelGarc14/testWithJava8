@@ -4,9 +4,9 @@ Aplicación web enterprise clásica desarrollada con Java 8 utilizando arquitect
 
 ---
 
-# Arquitectura Propuesta
+# Arquitectura
 
-Stack tecnológico alineado a entornos enterprise legacy/moderno híbrido:
+Stack tecnológico alineado a entornos enterprise híbrido:
 
 - Java 8
 - Spring MVC
