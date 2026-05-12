@@ -324,7 +324,6 @@ PostgreSQL
 
 # Capturas Recomendadas para README
 
-Se recomienda agregar:
 
 <img width="709" height="401" alt="image" src="https://github.com/user-attachments/assets/34e71b02-bc46-424a-8453-e1c77a8113b1" />
 
